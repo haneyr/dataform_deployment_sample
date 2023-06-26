@@ -2,7 +2,7 @@
     "warehouse": "bigquery",
     "defaultSchema": "dataform",
     "assertionSchema": "dataform_assertions",
-    "defaultDatabase": "dataform-test-362521",
+    "defaultDatabase": "driven-brands-cdf-demo",
     "defaultLocation": "US",
     "useRunCache": false
 }
